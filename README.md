@@ -10,10 +10,10 @@ Highlighted Projects:
 Data cleaning and Analysis of BMI and simulation of real-world data using Numpy.random and Jupyter Notebooks. 
 https://github.com/ReRiva/PfDA-Assignment
 
-Normal Distribution and Exercises.
+Normal Distribution and Exercises.<br>
 https://github.com/ReRiva/funddata-assessment
 
-Linear Regression and T-test Explained.
+Linear Regression and T-test Explained.<br>
 https://github.com/ReRiva/machine_learning_lr
 
 
