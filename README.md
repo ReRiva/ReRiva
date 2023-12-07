@@ -11,9 +11,11 @@ Data cleaning and Analysis of BMI and simulation of real-world data using Numpy.
 https://github.com/ReRiva/PfDA-Assignment
 
 Normal Distribution and Exercises.
+
 https://github.com/ReRiva/funddata-assessment
 
 Linear Regression and T-test Explained.
+
 https://github.com/ReRiva/machine_learning_lr
 
 
